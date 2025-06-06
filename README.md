@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="banner.png" alt="TechVoyageHub Banner" width="100%">
+  <img src="Github.png" alt="TechVoyageHub Banner" width="100%">
 </p>
 
 ---
